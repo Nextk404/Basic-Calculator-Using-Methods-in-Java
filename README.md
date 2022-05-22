@@ -4,7 +4,7 @@ By Pradhu007
 
 A bit about myself and the purpose for making this project 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-I am a  18 year old wannabe hacker who currently  resides in  AU .I  love programming and always eagerly excited  to learn about  about different technologies. I have created this program because i believe  it is a really cool beginner project to get your hands dirty when learning  a new language because you can incorporate all of the concepts you have learnt like classes, functions, variables, data types, conditions and so forth. 
+I am a  18 year old wannabe hacker who currently  resides in  AU .I  love programming and always eagerly excited  to learn about  about different technologies. I have created this program because i believe  it is a really cool beginner project to get your hands dirty when learning  a new language because you can incorporate all of the concepts you have learnt like classes, functions, variables, data types, conditions, loops and so forth. 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Instructions for using program 
