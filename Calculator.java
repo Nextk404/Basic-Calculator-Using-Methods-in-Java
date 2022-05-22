@@ -4,7 +4,7 @@ import java.util.Objects;
 import java.util.Scanner;
 
 
-public class CoutingBackwards {
+public class Calculator {
 
 
     static void addition(int num1,int num2){
